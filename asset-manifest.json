@@ -1,13 +1,13 @@
 {
-  "main.css": "/ralesz/resume/static/css/main.721ca277.chunk.css",
-  "main.js": "/ralesz/resume/static/js/main.3a99b13e.chunk.js",
-  "main.js.map": "/ralesz/resume/static/js/main.3a99b13e.chunk.js.map",
-  "runtime~main.js": "/ralesz/resume/static/js/runtime~main.c78f24ba.js",
-  "runtime~main.js.map": "/ralesz/resume/static/js/runtime~main.c78f24ba.js.map",
-  "static/js/2.88ea1fd6.chunk.js": "/ralesz/resume/static/js/2.88ea1fd6.chunk.js",
-  "static/js/2.88ea1fd6.chunk.js.map": "/ralesz/resume/static/js/2.88ea1fd6.chunk.js.map",
-  "index.html": "/ralesz/resume/index.html",
-  "precache-manifest.9783cb95cbd18ec4272797e73300754f.js": "/ralesz/resume/precache-manifest.9783cb95cbd18ec4272797e73300754f.js",
-  "service-worker.js": "/ralesz/resume/service-worker.js",
-  "static/css/main.721ca277.chunk.css.map": "/ralesz/resume/static/css/main.721ca277.chunk.css.map"
+  "main.css": "/resume/static/css/main.721ca277.chunk.css",
+  "main.js": "/resume/static/js/main.4611d405.chunk.js",
+  "main.js.map": "/resume/static/js/main.4611d405.chunk.js.map",
+  "runtime~main.js": "/resume/static/js/runtime~main.30522d0f.js",
+  "runtime~main.js.map": "/resume/static/js/runtime~main.30522d0f.js.map",
+  "static/js/2.88ea1fd6.chunk.js": "/resume/static/js/2.88ea1fd6.chunk.js",
+  "static/js/2.88ea1fd6.chunk.js.map": "/resume/static/js/2.88ea1fd6.chunk.js.map",
+  "index.html": "/resume/index.html",
+  "precache-manifest.c79c3a01d11559077e28faae6d276a70.js": "/resume/precache-manifest.c79c3a01d11559077e28faae6d276a70.js",
+  "service-worker.js": "/resume/service-worker.js",
+  "static/css/main.721ca277.chunk.css.map": "/resume/static/css/main.721ca277.chunk.css.map"
 }
