@@ -9,14 +9,15 @@ export default class Contactus extends Component {
       <h1><span>Get In Touch.</span></h1>
     </div>
     <div className="ten columns">
-      <p className="lead">Napisz do mnie poprzez formularz kontaktowy lub bezpośrednio wysyłając e-mail. 
-      Postaram się odpowiedzieć najszybciej jak będzie to mozliwe. 
+      <p className="lead">Zapraszam do kontaktu telefonicznego lub przez e-mail. 
+      Odpowiem najszybciej jak to mozliwe. 
+      Please contact me by phone or e-mail. I will answer you as soon as possible.
       </p>
     </div>
   </div>
   <div className="row">
-    <div className="eight columns">
-      {/* form */}
+    {/* <div className="eight columns">
+      
       <form action="mailto:info@grafikart.pl" id="contactForm" name="contactForm">
         <fieldset>
           <div>
@@ -42,21 +43,21 @@ export default class Contactus extends Component {
             </span>
           </div>
         </fieldset>
-      </form> {/* Form End */}
-      {/* contact-warning */}
+      </form> Form End
+      
       <div id="message-warning"> Error boy</div>
-      {/* contact-success */}
+      
       <div id="message-success">
         <i className="fa fa-check" />Your message was sent, thank you!<br />
       </div>
-    </div>
-    <aside className="four columns footer-widgets">
+    </div> */}
+    <aside className="twelve columns footer-widgets">
       <div className="widget widget_contact">
         <h4>Kontakt</h4>
         <p className="address">
           Rafał Leszczyński<br />
-          <span>+48 698 669 284 </span>
-          <span>rafal.leszczynski(a)grafikart.pl</span>
+          <span>+48 698 669 284 </span><br />
+          <span>e-mail: rafal.leszczynski(a)grafikart.pl</span>
         </p>
       </div>
       <div className="widget widget_tweets">
@@ -64,9 +65,9 @@ export default class Contactus extends Component {
         <ul id="twitter">
           <li>
             <span>
-              <a href="https://www.linkedin.com/in/rafal-leszczynski">LinkedIN</a>
+              <a target="_blank"  href="https://www.linkedin.com/in/rafal-leszczynski">LinkedIN</a>
               <br></br> 
-              <a href="https://github.com/ralesz">GitHub</a>
+              <a target="_blank"  href="https://github.com/ralesz">GitHub</a>
             </span>
           </li>
           {/* <li>

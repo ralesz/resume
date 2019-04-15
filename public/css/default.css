@@ -63,6 +63,9 @@ footer,header,hgroup,menu,nav,section {
    display: block;
 }
 
+aside {
+   align-content: center;
+}
 audio,
 canvas,
 video {

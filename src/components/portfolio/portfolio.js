@@ -206,21 +206,21 @@ export default class Portfolio extends Component {
       </div>
     </div>{/* modal-02 End */}
     <div id="modal-03" className="popup-modal mfp-hide">
-      <img className="scale-with-grid" src="images/portfolio/modals/m-judah.jpg" alt />
+      <img className="scale-with-grid" src="images/portfolio/modals/m-sa1.jpg" alt />
       <div className="description-box">
-        <h4>Judah</h4>
-        <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
-        <span className="categories"><i className="fa fa-tag" />Branding</span>
+        <h4>Świat Aluminium</h4>
+        <p>Skład DTP i oprawa graficzna dwumiesięcznia branowego "Świat Aluminium".</p>
+        <span className="categories"><i className="fa fa-tag" />Design, DTP</span>
       </div>
       <div className="link-box">
-        <a href="http://www.behance.net">Details</a>
+        <a target="_blank" href="https://www.flipsnack.com/rafal/sa_2018_01.html">Details</a>
         <a className="popup-modal-dismiss">Close</a>
       </div>
     </div>{/* modal-03 End */}
     <div id="modal-04" className="popup-modal mfp-hide">
       <img className="scale-with-grid" src="images/portfolio/modals/m-foto1.jpg" alt />
       <div className="description-box">
-        <h4>Down</h4>
+        <h4>Photography</h4>
         <p>Morning in the middle of Poland...</p>
         <span className="categories"><i className="fa fa-tag" />Photography</span>
       </div>
@@ -242,38 +242,38 @@ export default class Portfolio extends Component {
       </div>
     </div>{/* modal-05 End */}
     <div id="modal-06" className="popup-modal mfp-hide">
-      <img className="scale-with-grid" src="images/portfolio/modals/m-girl.jpg" alt />
+      <img className="scale-with-grid" src="images/portfolio/modals/m-podpora1.jpg" alt />
       <div className="description-box">
-        <h4>Girl</h4>
-        <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
-        <span className="categories"><i className="fa fa-tag" />Photography</span>
+        <h4>www.centrumpodpora.pl</h4>
+        <p>Projekt i prowadzenie strony w oparciu o CMS Wordpress.</p>
+        <span className="categories"><i className="fa fa-tag" />Web design</span>
       </div>
       <div className="link-box">
-        <a href="http://www.behance.net">Details</a>
+        <a target="_blank"  href="http://www.centrumpodpora.pl">Details</a>
         <a className="popup-modal-dismiss">Close</a>
       </div>
     </div>{/* modal-06 End */}
     <div id="modal-07" className="popup-modal mfp-hide">
-      <img className="scale-with-grid" src="images/portfolio/modals/m-origami.jpg" alt />
+      <img className="scale-with-grid" src="images/portfolio/modals/m-podpora2.jpg" alt />
       <div className="description-box">
-        <h4>Origami</h4>
-        <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+        <h4>Centrum Podpora</h4>
+        <p>Opracowanie key visual dla Agencji pomocy seniorom - Centrum Podpora.</p>
         <span className="categories"><i className="fa fa-tag" />Branding, Illustration</span>
       </div>
       <div className="link-box">
-        <a href="http://www.behance.net">Details</a>
+        <a target="_blank" href="http://www.centrumpodpora.pl">Details</a>
         <a className="popup-modal-dismiss">Close</a>
       </div>
     </div>{/* modal-07 End */}
     <div id="modal-08" className="popup-modal mfp-hide">
       <img className="scale-with-grid" src="images/portfolio/modals/m-waplewo.jpg" alt />
       <div className="description-box">
-        <h4>Retrocam</h4>
-        <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+        <h4>Rewita Waplewo</h4>
+        <p>Przygotowanie materiałów reklamowych dla ośrodka wczasowego Rewita Waplewo.</p>
         <span className="categories"><i className="fa fa-tag" />Illustration, Design</span>
       </div>
       <div className="link-box">
-        <a href="">Details</a>
+        <a target="_blank" href="https://www.rewita.pl/waplewo/">Details</a>
         <a className="popup-modal-dismiss">Close</a>
       </div>
     </div>{/* modal-01 End */}
