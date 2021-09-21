@@ -20,7 +20,7 @@ export default class Header extends Component {
   <div className="row banner">
     <div className="banner-text">
       <h1 className="responsive-headline">{resumeData.name}</h1>
-      {/* <h3>Inżynier i <span>Graphic designer</span> z 16-letnim doświadczeniem z zakresu grafiki, informatyki i technologii internetowych. Od roku uczę się programowania i rozwijam się w kierunku <span>Web designer</span> i <span>Junior front-end developer.</span> Ciekawy nowych wyzwań i zdobywania kolejnych doświadczeń zawodowych. Zdolności interpersonalne i dobra organizacja pracy. <br></br><a className="smoothscroll" href="#about">Przewiń w dół </a>
+      {/* <h3>Inżynier i <span>Graphic designer</span> z wielolwtnim doświadczeniem z zakresu grafiki, informatyki i technologii internetowych. Od roku uczę się programowania i rozwijam się w kierunku <span>Web designer</span> i <span>Junior front-end developer.</span> Ciekawy nowych wyzwań i zdobywania kolejnych doświadczeń zawodowych. Zdolności interpersonalne i dobra organizacja pracy. <br></br><a className="smoothscroll" href="#about">Przewiń w dół </a>
         i dowiedz się więcej <a className="smoothscroll" href="#about">o mnie</a>.</h3> */}
         <h3><span>Graphic designer, </span> <span>Web designer, </span> <span>Junior front-end developer</span> <br></br> <br></br> 
         <a className="smoothscroll" href="#about">O mnie </a>
